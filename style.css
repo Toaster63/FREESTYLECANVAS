@@ -1,0 +1,51 @@
+body{
+    background-image: url("colorv2.png");
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: black;
+    font-size: 75px;
+
+    font-weight: 100000;
+    font-style: oblique;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(226, 43, 67);
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: rgb(250, 215, 17);
+
+    
+}
+
+#myCanvas{
+    background-color: white;
+    border-radius: 15px;
+    border-color: rgb(226, 43, 67) ;
+    border-style: ridge;
+    border-width: 5px;
+}
+button{
+width: 200px;
+height: 50px;
+border-radius: 15px;
+border-style: ridge;
+border-width: 3px;
+background-color:rgb(226, 43, 67) ;
+color: rgb(250, 215, 17);
+font-size: 20px;
+border-color:rgb(250, 215, 17) ;
+
+
+}
+input{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border-style: ridge;
+    border-width: 3px;
+    background-color:rgb(250, 215, 17) ;
+    color: rgb(226, 43, 67);
+    font-size: 20px;
+    border-color:rgb(226, 43, 67) ;
+}
